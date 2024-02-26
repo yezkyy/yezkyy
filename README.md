@@ -3,4 +3,6 @@
 
 
 - 🧩 I’m currently learning **Node.js,Laravel,Amazon Web Services**
+- 📫 How to reach me **muhammadrizkys2004@gmail.com**
+- 🏫 Studied at Mulawarman University
 - 
