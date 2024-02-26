@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, Welcome to my Github</h1>
+<h3 align="center">🚀 Hi there, I'm Rizky, Im from Tenggarong,Indonesia. contribute to various open-source projects.</h3>
 
 <!--
 **yezkyy/yezkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
