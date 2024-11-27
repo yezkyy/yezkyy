@@ -4,7 +4,7 @@
 
 ## 🦸‍♂️About
 
-- 🧩 I’m currently learning **Node.js,Laravel,Amazon Web Services**
+- 🧩 I’m currently learning **Web Progamming,Mobile Apps,and Cloud Computing**
 - 📫 How to reach me **muhammadrizkys2004@gmail.com**
 - 🏫 Studied at Mulawarman University, Information System
 
