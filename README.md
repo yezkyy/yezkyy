@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Hi there, I'm Rizky, Im from Tenggarong,Indonesia. contribute to various open-source projects.</h3>
 
 
-## 🦸‍♂️About
+## 🦸‍♂️About Me
 
 - 🧩 I’m currently learning **Web Progamming,Mobile Apps,and Cloud Computing**
 - 📫 How to reach me **muhammadrizkys2004@gmail.com**
